@@ -165,12 +165,12 @@ const CONFIG = {
           link: 'https://www.linkedin.com',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Raindrop.io',
+          link: 'https://app.raindrop.io/my/-1',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Logseq',
+          link: 'https://logseq.com/',
         },
         {
           name: 'Slack',
