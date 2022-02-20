@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Valerius',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -26,14 +26,14 @@ const CONFIG = {
   bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+  weatherKey: '85ccad70199bf682d80cb6e2a082a0c6', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '51.540',
+  defaultLongitude: '9.936',
 
   // Autochange
   autoChangeTheme: true,
@@ -61,13 +61,13 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://beta.protonmail.com/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
+      name: 'eCampus',
+      icon: 'graduation-cap',
+      link: 'https://ec.ugoe.de/',
     },
     {
       id: '4',
@@ -77,48 +77,48 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      name: 'Twitter',
+      icon: 'twitter',
+      link: 'https://twitter.com',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
   secondButtonsContainer: [
     {
       id: '1',
-      name: 'Music',
-      icon: 'headphones',
-      link: 'https://open.spotify.com',
+      name: 'YNAB',
+      icon: 'banknote',
+      link: 'https://app.youneedabudget.com/83ace6b8-2e8d-4c7b-970c-2dd156037dc9/budget',
     },
     {
       id: '2',
-      name: 'twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com/',
+      name: 'Internxt Drive',
+      icon: 'hard-drive',
+      link: 'https://drive.internxt.com/app/recents',
     },
     {
       id: '3',
-      name: 'bot',
-      icon: 'bot',
-      link: 'https://discord.com/app',
+      name: 'P2P Cloud',
+      icon: 'download-cloud',
+      link: 'https://1337x.gd',
     },
     {
       id: '4',
       name: 'Amazon',
       icon: 'shopping-bag',
-      link: 'https://amazon.com/',
+      link: 'https://amazon.de/',
     },
     {
       id: '5',
-      name: 'Hashnode',
-      icon: 'pen-tool',
-      link: 'https://hashnode.com/',
+      name: 'Music',
+      icon: 'headphones',
+      link: 'https://open.spotify.com',
     },
     {
       id: '6',
