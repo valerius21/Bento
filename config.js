@@ -173,8 +173,8 @@ const CONFIG = {
           link: 'https://logseq.com/',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Caya',
+          link: 'https://app.getcaya.com/login',
         },
       ],
     },
