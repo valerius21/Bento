@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: 'Valerius',
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
@@ -135,23 +135,23 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'globe-2',
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: '/fit/',
+          link: 'https://4chan.org/fit/catalog/',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: '/tv/',
+          link: 'https://4chan.org/tv/catalog/',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: '/g/',
+          link: 'https://4chan.org/g/catalog/',
         },
         {
-          name: 'Rock',
+          name: 'RSS',
           link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
         },
       ],
