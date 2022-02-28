@@ -140,15 +140,15 @@ const CONFIG = {
       links: [
         {
           name: '/fit/',
-          link: 'https://4chan.org/fit/catalog/',
+          link: 'https://4chan.org/fit',
         },
         {
           name: '/tv/',
-          link: 'https://4chan.org/tv/catalog/',
+          link: 'https://4chan.org/tv',
         },
         {
           name: '/g/',
-          link: 'https://4chan.org/g/catalog/',
+          link: 'https://4chan.org/g',
         },
         {
           name: 'RSS',
